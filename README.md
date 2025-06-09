@@ -126,6 +126,35 @@ OSF penalizes excessive fragmentation by measuring how many segments are linked 
 
 Follow these simple steps to get your segmentation optimization running quickly:
 
+## 🗺️ requirements
+
+1. **Create a virtual environment** (recommended):
+
+   ```bash
+   python -m venv venv
+    ```
+
+2. **Activate the environment** :
+   On Windows:
+```bash
+venv\Scripts\activate
+```
+
+  On macOS/Linux:
+```bash
+source venv/bin/activate
+```
+
+3. **Upgrade pip, setuptools, and wheel** :
+```bash
+pip install --upgrade pip setuptools wheel
+```
+
+4. **Install the dependencies** :
+```bash
+pip install -r requirements.txt
+```
+
 - Download the complete code package.
 
 - Open the (MOGWSO.ipynb) in your preferred environment (e.g., JupyterLab, VSCode).
