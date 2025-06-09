@@ -167,3 +167,7 @@ reference_shapefile_path = "/path/to/your/reference_data.shp"
 ```
 - Run the notebook cells or script, and the optimization will start processing using your provided data.
 
+<span style="color: #3498db;">📧 Contact</span>
+✉️ Email: mamadjs@email.kntu.ac.ir
+🌐 GitHub: github.com/your-username
+🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammad-javad-soltani/)
