@@ -171,8 +171,8 @@ reference_shapefile_path = "/path/to/your/reference_data.shp"
 
 <span style="color: #3498db;">📧 Contact</span>
 
-✉️ mamadjs@email.kntu.ac.ir
+✉️ ----
 
-🌐 [GitHub](https://github.com/MohammadJavadSoltani)
+🌐 [GitHub]
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-javad-soltani/)
+🔗 [LinkedIn]
