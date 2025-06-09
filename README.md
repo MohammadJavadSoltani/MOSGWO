@@ -5,9 +5,9 @@
 # <span style="color: #3498db; font-size: 1.2em;">**Multi-Objective Grey Wolf Segmentation Optimization (MOGWSO)**</span>  
 ### <span style="color: #2ecc71;">**Version 1.0.0**</span>  
 #### <span style="color: #e74c3c;">**June 2025**</span>  
-#### <span style="color: #9b59b6;">**Credit: M. Javad Soltani**</span>  
-**Master Student of Remote Sensing and Photogrammetry**  
-**K. N. Toosi University of Technology**  
+#### <span style="color: #9b59b6;">**Credit:----**</span>  
+**----**  
+**----**  
 
 </td>
 <td valign="middle" align="right">
