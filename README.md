@@ -1,2 +1,2 @@
-# Soltani-et-al-20225
+# Soltani-et-al-2025
 Semi-automated multi-objective segmentation optimization
