@@ -38,7 +38,7 @@
 
 ### **Theoretical Foundation** 
 ```math
-\text{Objective} = W_1 \times (1 - \text{elim_fac}) + W_2 \times (1 - \text{OSF}) + W_3 \times \text{F1_Score}
+\text{Objective} = W_1 \times \text{elim\_fac} + W_2 \times \text{OSF} + W_3 \times \text{F1\_Score}
 ```
 ---
 
