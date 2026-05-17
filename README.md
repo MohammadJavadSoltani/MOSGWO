@@ -4,7 +4,7 @@
 
 # <span style="color: #3498db; font-size: 1.2em;">**Multi-Objective Segmentation Grey Wolf Optimization (MOSGWO)**</span>
 ### <span style="color: #2ecc71;">**Version 1.0.0**</span>
-#### <span style="color: #e74c3c;">**June 2025**</span>
+#### <span style="color: #e74c3c;">**May 2026**</span>
 <h3>📜 Credits</h3>
 <ul>
   <li><strong style="color: #9b59b6;">Mohammad Javad Soltani</strong></li>
