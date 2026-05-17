@@ -15,7 +15,7 @@
 </td>
 <td valign="middle" align="right">
 
-<img src="https://github.com/user-attachments/assets/ce14253f-1d12-48d3-a755-eb745b347776" alt="MOGWSO Logo" style="max-height: 120px; width: auto;">
+<img src="https://github.com/user-attachments/assets/ce14253f-1d12-48d3-a755-eb745b347776" alt="MOSGWO Logo" style="max-height: 120px; width: auto;">
 
 </td>
 </tr>
@@ -36,7 +36,7 @@
 
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #3498db; margin-bottom: 20px;">
 
-◼️ **MOGWSO** is an advanced optimization algorithm inspired by the hunting behavior of grey wolves, adapted for **multi-objective image segmentation tasks**.
+◼️ **MOSGWO** is an advanced optimization algorithm inspired by the hunting behavior of grey wolves, adapted for **multi-objective image segmentation tasks**.
 ◼️ Designed for **remote sensing applications**, it efficiently handles **complex, high-dimensional optimization problems** with Pareto-optimal solutions.
 ◼️ Combines **Grey Wolf Optimizer (GWO) principles** with **geometric accuracy assessment** (IoU, F1-score) and **thematic validation**.
 
@@ -62,7 +62,7 @@
 
 ## 📊 Performance Metrics
 
-> MOGWSO evaluates segmentation quality using **five complementary metrics**, combining geometric accuracy, elimination strategies, and oversegmentation control for robust optimization.
+> MOSGWO evaluates segmentation quality using **five complementary metrics**, combining geometric accuracy, elimination strategies, and oversegmentation control for robust optimization.
 
 ---
 
@@ -144,7 +144,7 @@ OSF penalizes excessive fragmentation by measuring how many segments are linked 
 
 ### ⚙️ System Requirements
 
-> **Python 3.10 is required.** MOGWSO has been developed and tested exclusively on **Python 3.10.x**. Using other Python versions (3.9, 3.11+) may cause dependency conflicts, particularly with GDAL, Rasterio, and PyQt5/PySide6 bindings.
+> **Python 3.10 is required.** MOSGWO has been developed and tested exclusively on **Python 3.10.x**. Using other Python versions (3.9, 3.11+) may cause dependency conflicts, particularly with GDAL, Rasterio, and PyQt5/PySide6 bindings.
 
 To verify your Python version:
 ```bash
@@ -189,7 +189,7 @@ pip install -r requirements.txt
 
 ### 📦 Key Dependencies
 
-The following are the **core packages** MOGWSO relies on. All versions are pinned for reproducibility.
+The following are the **core packages** MOSGWO relies on. All versions are pinned for reproducibility.
 
 | Package | Version | Role |
 |---|---|---|
@@ -246,10 +246,10 @@ zstandard==0.23.0
 
 ---
 
-### ▶️ Running MOGWSO
+### ▶️ Running MOSGWO
 
 1. Download the complete code package.
-2. Open `MOGWSO.ipynb` in your preferred environment (JupyterLab, VSCode).
+2. Open `MOSGWO.ipynb` in your preferred environment (JupyterLab, VSCode).
 3. Set the correct paths to your satellite image and reference shapefile:
 
 ```python
@@ -263,7 +263,7 @@ reference_shapefile_path = "/path/to/your/reference_data.shp"
 
 ## 📄 Citation
 
-If you use MOGWSO in your research, please cite the following paper:
+If you use MOSGWO in your research, please cite the following paper:
 
 > (2026). *Multi-Objective Grey Wolf Segmentation Optimization for Remote Sensing Image Segmentation*. **Remote Sensing Applications: Society and Environment**, 102050. https://doi.org/10.1016/j.rsase.2026.102050
 
