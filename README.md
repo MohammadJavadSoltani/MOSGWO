@@ -2,7 +2,7 @@
 <tr>
 <td valign="middle" style="padding-right: 20px;">
 
-# <span style="color: #3498db; font-size: 1.2em;">**Multi-Objective Grey Wolf Segmentation Optimization (MOGWSO)**</span>
+# <span style="color: #3498db; font-size: 1.2em;">**Multi-Objective Segmentation Grey Wolf Optimization (MOSGWO)**</span>
 ### <span style="color: #2ecc71;">**Version 1.0.0**</span>
 #### <span style="color: #e74c3c;">**June 2025**</span>
 <h3>📜 Credits</h3>
