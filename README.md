@@ -37,7 +37,9 @@
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #3498db; margin-bottom: 20px;">
 
 ◼️ **MOSGWO** is an advanced optimization algorithm inspired by the hunting behavior of grey wolves, adapted for **multi-objective image segmentation tasks**.
+
 ◼️ Designed for **remote sensing applications**, it efficiently handles **complex, high-dimensional optimization problems** with Pareto-optimal solutions.
+
 ◼️ Combines **Grey Wolf Optimizer (GWO) principles** with **geometric accuracy assessment** (IoU, F1-score) and **thematic validation**.
 
 </div>
